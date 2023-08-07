@@ -1,0 +1,5 @@
+read
+write
+cook
+work
+dance
